@@ -46,7 +46,7 @@ ___Example pictured here:___
 - Plug your latop into one of the yellow lan port on the back of the device
 - Open a browser and go to http://192.168.1.1
 - Log in to the software and go to Adminisration>Operation Mode
-- Select: Access Point Mode -> Save / Apply(Router will reboot)
+- Select: Router Mode -> Save / Apply(Router will reboot)
 - Connect to the Router by the browser
 - Go to Wireless Settings
 - Set SSID: <any_valid_network_name>
